@@ -1,0 +1,11 @@
+
+
+1. Git clone 
+
+2. Set your path  to Vendor_Management_System
+
+3. Use command "python manage.py runserver"
+
+4. Given Postman collection with this repo name Vendor Management API.json
+
+5. Execute each API 
